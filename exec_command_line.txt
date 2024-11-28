@@ -1,0 +1,7 @@
+Executar:
+	java -cp .;"C:\Program Files (x86)\MySQL\Connector J 8.0\mysql-connector-java-8.0.26.jar" Principal
+
+Conectar ao banco:
+	C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe' -u root -p
+	Enter password: root
+	source DDL.sql;
